@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
+ -->
 <!--
 **Summertree-8/Summertree-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <h3 align="center"></h3> -->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summertree-8&show_icons=true&locale=en" alt="summertree-8" /></p>
+
