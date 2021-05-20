@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 <!-- <h3 align="center"></h3> -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summertree-8&show_icons=true&locale=en" alt="summertree-8" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summertree-8&show_icons=true&locale=en&theme=dracula&count_private=true& alt="summertree-8" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=summertree-8&show_icons=true&locale=en&layout=compact&theme=dark" alt="summertree-8" &theme=synthwave/></p>
+
+
+
 
